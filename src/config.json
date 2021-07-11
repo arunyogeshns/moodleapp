@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "tv.velukkudi.mobile",
+    "appname": "Velukkudi TV eLearning",
+    "desktopappname": "Velukkudi TV eLearning",
     "versioncode": 3940,
-    "versionname": "3.9.4",
+    "versionname": "1.0.1",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -63,17 +63,6 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
     },
     "font_sizes": [
         62.5,
@@ -81,7 +70,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://velukkudi.tv/gita",
     "sitename": "",
     "multisitesdisplay": "",
     "sitefindersettings": {},
